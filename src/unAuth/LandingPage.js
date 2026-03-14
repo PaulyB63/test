@@ -12,7 +12,7 @@ const LandingPage = () => {
 
 
 
-
+// Hey this is cool! 
     
   return (
     <div className="landing-page-container">
